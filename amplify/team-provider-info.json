@@ -10,6 +10,11 @@
       "StackName": "amplify-awsbucketlistamplify-bgdev-8c328",
       "StackId": "arn:aws:cloudformation:eu-west-1:889675174663:stack/amplify-awsbucketlistamplify-bgdev-8c328/a7605ec0-33ea-11f0-a5b8-02646bcecaff",
       "AmplifyAppId": "d1csowoyngmi4f"
+    },
+    "categories": {
+      "auth": {
+        "awsbucketlistamplify2216102d": {}
+      }
     }
   }
 }
