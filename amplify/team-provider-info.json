@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "awsbucketlistamplify2216102d": {}
+      },
+      "api": {
+        "awsbucketlistamplify": {}
       }
     }
   }
