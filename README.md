@@ -4,6 +4,8 @@
 
 A **React-powered** bucket list web app built with a **modern serverless architecture using AWS Amplify, AWS AppSync, AWS DynamoDB, and Amazon S3**. The app is designed with a **GraphQL API, CI/CD automation, and a fully managed cloud backend**, enabling seamless operations, authentication, and media storage.
 
+![🚀Live Demo](https://main.d1csowoyngmi4f.amplifyapp.com/)
+
 ---
 
 ## 📝 A Quick Look at the Web App
