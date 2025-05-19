@@ -15,7 +15,7 @@ A <b>React-powered</b> bucket list web app built with a <b>modern serverless arc
 <h3>🏗️ Architecture Overview</h3>
 <i>With Tips and Tricks for Best Practices!</i>
 <br>
-![Image_Description](Architecture/Architecture.jpeg)
+![Image Description](Architecture/Architecture.jpeg)
 <br>
 <hr>
 <h3>🖼🛠 Service Breakdown</h3> 
