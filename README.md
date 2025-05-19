@@ -1,25 +1,28 @@
-<p align="left"><b><h2>🎯 Note List Tracker</h2> </b></p>
+## 🎯 Note List Tracker
 
-<i>Stay loosely motivated and track your notes anytime, anywhere!</i>
+*Stay loosely motivated and track your notes anytime, anywhere!*
 
-A <b>React-powered</b> bucket list web app built with a <b>modern serverless architecture using AWS Amplify, AWS AppSync, AWS DynamoDB and Amazon S3</b>. The app is designed with a <b>GraphQL API, CI/CD automation, and a fully managed cloud backend</b>, enabling seamless operations, authentication, and media storage.
-<br>
-<hr>
+A **React-powered** bucket list web app built with a **modern serverless architecture using AWS Amplify, AWS AppSync, AWS DynamoDB, and Amazon S3**. The app is designed with a **GraphQL API, CI/CD automation, and a fully managed cloud backend**, enabling seamless operations, authentication, and media storage.
 
-<p align="left"><b><h2>📝 A Quick Look at the Web App </h2> </b></p>
-<h3>🖼️ Gif Preview</h3> 
-<br>
+---
+
+## 📝 A Quick Look at the Web App
+
+### 🖼️ Gif Preview
+
 ![Amplify Demo](SimulationVideo/Amplify-React-FullStack.gif)
 
-<br>
+---
 
-<h3>🏗️ Architecture Overview</h3>
-<i>With Tips and Tricks for Best Practices!</i>
-<br>
-![Image Description](Architecture/Architecture.jpeg)
-<br>
-<hr>
-<h3>🖼🛠 Service Breakdown</h3> 
+### 🏗️ Architecture Overview  
+*With Tips and Tricks for Best Practices!*
+
+![Architecture Overview](Architecture/Architecture.jpeg)
+
+---
+
+### 🛠 Service Breakdown
+
 | Service             | Purpose                                                                 |
 |---------------------|-------------------------------------------------------------------------|
 | AWS Amplify         | Handles backend provisioning, GraphQL API, authentication, and hosting. |
