@@ -10,9 +10,9 @@ A **React-powered** bucket list web app built with a **modern serverless archite
 
 ## 📝 A Quick Look at the Web App
 
-### 🖼️ Gif Preview
+### 🖼️ Screenshot Preview
 
-![Amplify Demo](SimulationVideo/Amplify-React-FullStack.gif)
+![Screenshot Overview](Img/Amplify.jpeg)
 
 ---
 
@@ -23,11 +23,13 @@ A **React-powered** bucket list web app built with a **modern serverless archite
 
 ---
 
-### 🖼️ Screenshot Preview
+### 🖼️ Gif Preview
 
-![Screenshot Overview](Img/Amplify.jpeg)
+![Amplify Demo](SimulationVideo/Amplify-React-FullStack.gif)
 
 ---
+
+
 
 ### 🛠 Service Breakdown
 
