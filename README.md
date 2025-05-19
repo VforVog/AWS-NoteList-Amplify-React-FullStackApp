@@ -1,4 +1,4 @@
-<p align="left"><b>🎯 Note List Tracker </b></p>
+<p align="left" style="font-size: 18px;"><b>🎯 Note List Tracker </b></p>
 <hr>
 
 <i>Stay loosely motivated and track your life goals idly slipping away!</i>
