@@ -23,6 +23,12 @@ A **React-powered** bucket list web app built with a **modern serverless archite
 
 ---
 
+### 🖼️ Screenshot Preview
+
+![Screenshot Overview](Img/Amplify.jpeg)
+
+---
+
 ### 🛠 Service Breakdown
 
 | Service             | Purpose                                                                 |
