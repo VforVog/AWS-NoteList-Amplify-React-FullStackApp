@@ -26,6 +26,7 @@ A **React-powered** bucket list web app built with a **modern serverless archite
 | Service             | Purpose                                                                 |
 |---------------------|-------------------------------------------------------------------------|
 | AWS Amplify         | Handles backend provisioning, GraphQL API, authentication, and hosting. |
+| AWS CDN Globally    | Amplify is hosting us and providing us a URL.                           |
 | AWS AppSync         | GraphQL API management, supporting real-time and offline sync.          |
 | AWS DynamoDB        | NoSQL database for storing structured bucket list data.                 |
 | Amazon S3           | Secure, scalable object storage for images.                             |
