@@ -10,6 +10,7 @@ A <b>React-powered</b> bucket list web app built with a <b>modern serverless arc
 <h3>🖼️ Gif Preview</h3> 
 <br>
 ![Amplify Demo](SimulationVideo/Amplify-React-FullStack.gif)
+
 <br>
 
 <h3>🏗️ Architecture Overview</h3>
