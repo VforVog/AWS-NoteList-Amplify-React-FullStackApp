@@ -20,10 +20,11 @@ import {
 
 import { Amplify } from "aws-amplify";
 import awsExports from "./aws-exports";
-Amplify.configure(awsExports);
 
 import { generateClient } from "aws-amplify/api";
 import { uploadData, getUrl, remove } from "aws-amplify/storage";
+
+Amplify.configure(awsExports);
 
 const client = generateClient();
 
