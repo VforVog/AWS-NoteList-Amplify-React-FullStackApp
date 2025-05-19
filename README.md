@@ -9,13 +9,13 @@ A <b>React-powered</b> bucket list web app built with a <b>modern serverless arc
 <p align="left"><b><h2>📝 A Quick Look at the Web App </h2> </b></p>
 <h3>🖼️ Gif Preview</h3> 
 <br>
-![Amplify Demo](SimulationVideo/Amplify-React-FullStack.gif)
+![Amplify_Demo](SimulationVideo/Amplify-React-FullStack.gif)
 <br>
 
 <h3>🏗️ Architecture Overview</h3>
 <i>With Tips and Tricks for Best Practices!</i>
 <br>
-![Image Description](Architecture/Architecture.jpeg)
+![Image_Description](Architecture/Architecture.jpeg)
 <br>
 <hr>
 <h3>🖼🛠 Service Breakdown</h3> 
