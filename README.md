@@ -6,6 +6,7 @@ A **React-powered** bucket list web app built with a **modern serverless archite
 
 [🚀Live Demo](https://main.d1csowoyngmi4f.amplifyapp.com/)
 
+<br> 
 
 ### 🛠 Service Breakdown
 
