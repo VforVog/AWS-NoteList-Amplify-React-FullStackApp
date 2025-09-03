@@ -8,7 +8,7 @@ A **React-powered** bucket list web app built with a **modern serverless archite
 
 <br> 
 
-### 🛠 Service Breakdown
+## 🛠 Service Breakdown
 
 | Service             | Purpose                                                                 |
 |---------------------|-------------------------------------------------------------------------|
