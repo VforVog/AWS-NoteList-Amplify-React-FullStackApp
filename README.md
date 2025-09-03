@@ -6,30 +6,6 @@ A **React-powered** bucket list web app built with a **modern serverless archite
 
 [🚀Live Demo](https://main.d1csowoyngmi4f.amplifyapp.com/)
 
----
-
-## 📝 A Quick Look at the Web App
-
-### 🖼️ Screenshot Preview
-
-![Screenshot Overview](Img/Amplify.jpeg)
-
----
-
-### 🏗️ Architecture Overview  
-*With Tips and Tricks for Best Practices!*
-
-![Architecture Overview](Architecture/Architecture.jpeg)
-
----
-
-### 🖼️ Gif Preview
-
-![Amplify Demo](SimulationVideo/Amplify-React-FullStack.gif)
-
----
-
-
 
 ### 🛠 Service Breakdown
 
@@ -41,3 +17,29 @@ A **React-powered** bucket list web app built with a **modern serverless archite
 | AWS DynamoDB        | NoSQL database for storing structured bucket list data.                 |
 | Amazon S3           | Secure, scalable object storage for images.                             |
 | AWS Amplify CI/CD   | Automates deployment upon GitHub push with build and test integration.  |
+
+---
+
+## 📝 A Quick Look at the Web App
+
+### 🖼️ Screenshot Preview
+
+![Screenshot Overview](Img/Amplify.jpeg)
+
+
+
+### 🏗️ Architecture Overview  
+*With Tips and Tricks for Best Practices!*
+
+![Architecture Overview](Architecture/Architecture.jpeg)
+
+
+
+### 🖼️ Gif Preview
+
+![Amplify Demo](SimulationVideo/Amplify-React-FullStack.gif)
+
+---
+
+
+
