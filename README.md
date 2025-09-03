@@ -21,6 +21,8 @@ A **React-powered** bucket list web app built with a **modern serverless archite
 
 ---
 
+<br>
+
 ## 📝 A Quick Look at the Web App
 
 ### 🖼️ Screenshot Preview
@@ -29,14 +31,14 @@ A **React-powered** bucket list web app built with a **modern serverless archite
 
 
 
-### 🏗️ Architecture Overview  
+## 🏗️ Architecture Overview  
 *With Tips and Tricks for Best Practices!*
 
 ![Architecture Overview](Architecture/Architecture.jpeg)
 
 
 
-### 🖼️ Gif Preview
+## 🖼️ Gif Preview
 
 ![Amplify Demo](SimulationVideo/Amplify-React-FullStack.gif)
 
